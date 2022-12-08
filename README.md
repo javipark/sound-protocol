@@ -1,4 +1,4 @@
-# Sound Protocol
+# gm, sound protocol
 
 Sound Protocol is a generalized platform for flexible and efficient creation of NFT drops.
 
